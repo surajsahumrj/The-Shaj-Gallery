@@ -1,7 +1,7 @@
 
 # 🎨 The Shaj Gallery
 
-**The Shaj Gallery** is a modern, elegant, and user-friendly online art gallery that brings together **artists, photographers, and art lovers** on one platform.
+**The Shaj Gallery(https://the-shaj-gallery.web.app/)** is a modern, elegant, and user-friendly online art gallery that brings together **artists, photographers, and art lovers** on one platform.
 
 It’s not just an e-commerce site for art — it’s a **community-driven gallery** where creativity meets technology.
 
@@ -51,7 +51,7 @@ It’s not just an e-commerce site for art — it’s a **community-driven galle
 * **Layout**: Modular structure with reusable `header.html` & `footer.html`
 * **Backend / Hosting**: Firebase Hosting
 * **Database**: Cloud Firestore (for contest entries, user data, etc.)
-* **Deployment**: Deployed live via Firebase → [Visit The Shaj Gallery](#) (replace with your actual hosting link)
+* **Deployment**: Deployed live via Firebase → [Visit The Shaj Gallery](https://the-shaj-gallery.web.app/)
 
 ---
 

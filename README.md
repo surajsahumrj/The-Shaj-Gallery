@@ -1,4 +1,3 @@
----
 
 # 🎨 The Shaj Gallery
 
@@ -102,4 +101,4 @@ It’s not just an e-commerce site for art — it’s a **community-driven galle
 * ✅ AI-powered art recommendation system.
 * ✅ Dark mode for better user experience.
 
----
+
